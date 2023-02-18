@@ -1,5 +1,5 @@
 <?php
-// هذا كود السجن 
+
 header('Content-type: text/html; charset=utf-8');
 
 session_start();
